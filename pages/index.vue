@@ -1,2 +1,4 @@
 <template>
+    <AppNavbar />
+    <AppLanding />
 </template>
