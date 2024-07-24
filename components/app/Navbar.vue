@@ -1,5 +1,5 @@
 <template>
-        <nav class="w-full h-[68px] flex justify-between my-[40px] mb-[70px] items-center ps-28 pe-28">
+        <nav class="w-[1440px] h-[68px] flex justify-between my-[40px] mb-[70px] items-center ps-28 pe-28">
             <div class="flex w-[219.537px] h-[36px] justify-center items-center gap-[12.92px]">
                 <img src="~/assets/logo/Icon.png" alt="Logo">
                 <img src="~/assets/logo/Positivus.png" alt="Logo ">
@@ -14,4 +14,3 @@
             </ul>
         </nav>
 </template>
-  
