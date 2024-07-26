@@ -2,7 +2,7 @@
     <section class="header flex justify-between w-[1440px] h-[515px] gap-[108.54px] ps-28 pe-28">
         <div class="text w-[531px]">
             <div class="besar w-[531px] h-[231px]">
-                <h1 class="font-space-grotesk text-[60px] leading-[76.56px] text-left">
+                <h1 class="font-space-grotesk text-[60px] leading-[76.56px] text-left font-medium">
                     Navigating the digital landscape for success
                 </h1>
             </div>
